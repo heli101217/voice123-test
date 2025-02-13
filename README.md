@@ -39,14 +39,11 @@ npm start
 - [x] Search results display
 - [x] Audio player integration
 - [x] Actor profile linking
+- [x] Text highlighting
 
 ### Hour 4 (4:00 - 5:00)
 - [x] Pagination implementation
-- [x] Text highlighting
 - [x] Error handling
-
-### Hour 5 (5:00 - 6:00)
-- [x] UI polishing
 - [x] Bug fixes
 - [x] Documentation
 
