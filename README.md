@@ -23,25 +23,25 @@ npm install
 npm start
 ```
 
-## Worklog (Total: 5 hours)
+## Worklog (Total: 4 hours)
 
-### Hour 1 (1:00 - 2:00)
+### Hour 1 (0:00 - 1:00)
 - [x] Project initialization
 - [x] Dependencies setup (React, Material-UI, Axios)
 - [x] Basic project structure
 
-### Hour 2 (2:00 - 3:00)
+### Hour 2 (1:00 - 2:00)
 - [x] Voice123 API integration
 - [x] Search functionality implementation
 - [x] Basic UI components creation
 
-### Hour 3 (3:00 - 4:00)
+### Hour 3 (2:00 - 3:00)
 - [x] Search results display
 - [x] Audio player integration
 - [x] Actor profile linking
 - [x] Text highlighting
 
-### Hour 4 (4:00 - 5:00)
+### Hour 4 (3:00 - 4:00)
 - [x] Pagination implementation
 - [x] Error handling
 - [x] Bug fixes
